@@ -1,1 +1,1 @@
-# Zen-Class-Event-Management-for-Student-Backend
+Zen_capstone_project
